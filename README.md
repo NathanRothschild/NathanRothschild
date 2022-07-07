@@ -4,9 +4,9 @@ Nathan Rothschild
 Student at Concord Academy interested in Data Science, Econ, Finance
 --------------------------------------------------------------------
 
-* ✉️  You can contact me at [ndvr25@gmail.com](mailto:ndvr25@gmail.com)
-* 🚀  I'm currently working on [Impartial History](http://impartialhistory.com)
-* 🧠  I'm learning R, C, C++
+* Contact: [ndvr25@gmail.com](mailto:ndvr25@gmail.com)
+* Currently working on [Impartial History](http://impartialhistory.com)
+* Learning R, C, C++
 
 ### Skills
 
